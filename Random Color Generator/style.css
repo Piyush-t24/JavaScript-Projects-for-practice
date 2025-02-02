@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+div{
+    height: 300px;
+    width: 800px;
+    border: 5px solid black;
+    margin: auto;
+    margin-top: 20px;
+}
